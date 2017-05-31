@@ -4,9 +4,9 @@
 var proxy = "__PROXY__";
 
 var rules = [
-//added by raiden
+//added by raiden start 
   "||w3cschool.com",
-  
+//added by raiden end  
   "||2dbook.com",
   "||4tern.com",
   "|http://85.17.73.31/",
