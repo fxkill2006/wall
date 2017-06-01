@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/520 & URL Redirects---------
+||w3schools.com
 ||2dbook.com
 ||4tern.com
 !--ehentai
