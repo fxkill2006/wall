@@ -17,6 +17,7 @@
 
 !---------403/451/520 & URL Redirects---------
 .w3schools.com
+www.w3schools.com
 ||2dbook.com
 ||4tern.com
 !--ehentai
